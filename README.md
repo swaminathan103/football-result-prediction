@@ -6,7 +6,7 @@ Models Used - Linear SVM, Radial SVM, Random Forest, Gradient Boosting, Naive Ba
 
 Datasets taken from [Football Data](http://www.football-data.co.uk/englandm.php)
 
-Snapshots - 
+Example snapshots - 
 
 ![RSVM](https://user-images.githubusercontent.com/53428109/89710350-bd77e480-d99f-11ea-86d0-4073f39c3f99.png)
 
